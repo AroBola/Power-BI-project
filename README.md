@@ -25,13 +25,13 @@ The dashboard is designed for executives and analysts to quickly identify busine
 - Revenue vs Target trend (2016–2021)  
 - Revenue by Brand (e.g., Adventure Works, Contoso, Fabrikam)  
 - Monthly breakdown of Revenue & Profit
-  
+ ![Executive Overview] (overview.PNG) 
 
 ### 2. **Trends Over Time**
 - Revenue & Profit trends (2020–2021)  
 - Units sold by category (Audio, Cameras, Cell Phones, Computers, Games…)  
 - Monthly customer acquisition & retention  
-
+![Trends Over Time] (trends2020+.PNG)
 
 
 ### 3. **Year-over-Year Comparison**
@@ -40,7 +40,7 @@ The dashboard is designed for executives and analysts to quickly identify busine
 - Customer Count ▲ 5.0% vs LY  
 - Revenue vs Profit YoY %  
 - Regional trends (Australia, Canada, France, Germany, Italy, Netherlands, UK, US, Online)  
-
+![YoY Comparison] (yoy.PNG)
 
 
 ## 📊 Tools & Techniques
