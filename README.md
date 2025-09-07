@@ -32,7 +32,7 @@ The dashboard is designed for executives and analysts to quickly identify busine
 - Revenue & Profit trends (2020–2021)  
 - Units sold by category (Audio, Cameras, Cell Phones, Computers, Games…)  
 - Monthly customer acquisition & retention  
-![Trends Over Time](trends 2020+.PNG)
+![Trends Over Time](trends2020+.PNG)
 
 
 ### 3. **Year-over-Year Comparison**
